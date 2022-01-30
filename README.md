@@ -3,6 +3,7 @@ This repository contains the smart contract for smart loan written with C#
 
 
 To see our Smart Loan service which uses the Stratis smart contract please visit our website: www.smartgreeninvest.com
+If the URL dosen't work, Please visit: http://3.124.197.129:5000/ 
 
 This service is Devlopped by Trident-AI: https://trident-ai.net/ 
 
